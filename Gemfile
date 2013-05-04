@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.13'
-gem 'pg',    '0.15.1'
+gem 'rails',  '3.2.13'
+gem 'pg',     '0.15.1'
+gem 'mysql2', '0.3.12b5'
 
 gem 'delayed_job_active_record', '~> 0.4.4'
 gem 'daemons', '1.1.9'
